@@ -1,0 +1,17 @@
+name: flutter_enhanced_flexible_space_bar
+description: "Based on the official FlexibleSpaceBar, with some extra features."
+version: 0.0.1
+homepage: https://github.com/j7126/flutter_enhanced_flexible_space_bar
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+
+flutter:
